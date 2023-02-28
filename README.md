@@ -1,11 +1,9 @@
 # Hora-do-dia
- Aplicativo que informa a hora aproximada do dia de acordo com a sua localização.
+ Aplicativo que informa a hora do dia de acordo com a sua localização.
 ##
 ![](/img/tela-1.png)
 ![](/img/tela-2.png)
 ![](/img/tela-3.png)
-![](/img/tela-4.png)
-![](/img/tela-5.png)
 
 ## Ambiente de Desenvolvimento
 
@@ -18,13 +16,13 @@ estilização da base do projeto e JavaScript para criar a lógica e animações
 
 ## 🛠️ O projeto foi construido com
 
-* [HTML5](https://www.w3c.br/Cursos/CursoHTML5) - Estutura do projeto.
-* [CSS3](https://www.w3c.br/Cursos/CursoCSS3/) - Styles do projeto.
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Estutura do projeto.
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styles do projeto.
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript para criar a lógica e animações do projeto.
 
 ## 📌 Versão
 
-Usei [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/exacttime).
+Usei [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/hora-do-dia).
 
 ## ✒️ Autor
 
@@ -41,7 +39,7 @@ Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/)
 
 Distribuído sobre a licença. Veja `MIT License` para mais informações.
 
-[https://github.com/JonathasRosa/Clima-e-Tempo/blob/main/LICENSE](https://github.com/JonathasRosa)
+[https://github.com/JonathasRosa/hora-do-dia/blob/main/LICENSE](https://github.com/JonathasRosa)
 
 ## 🎁 Expressões de gratidão
 
